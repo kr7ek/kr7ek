@@ -1,6 +1,6 @@
 ```bash id="u7c3pa"
                                                        krtek@github ~
-   ██╗  ██╗██████╗ ████████╗███████╗██╗  ██╗           ──────────────────────────────────────
+   ██╗  ██╗██████╗ ████████╗███████╗██╗  ██╗           --------------
    ██║ ██╔╝██╔══██╗╚══██╔══╝██╔════╝██║ ██╔╝           > whoami
    █████╔╝ ██████╔╝   ██║   █████╗  █████╔╝            username  : krtek (aka kr7ek) ✌🏼
    ██╔═██╗ ██╔══██╗   ██║   ██╔══╝  ██╔═██╗
@@ -8,7 +8,7 @@
    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝           os        : Windows | macOS | Linux
                                                        shell     : bash | zsh | PowerShell
    > stack                                             editors   : VS Code | IntelliJ | Eclipse
-   languages : C | C++ | Java | Python | SQL           theme     : dark
+   languages : C | C++ | Java | Python | SQL           theme     : One Dark Pro | Dracula | Nord
    backend   : Node.js | Spring | Hibernate
    frontend  : HTML | CSS | JavaScript | React         > about
    tools     : Git | Docker | Qt                       interests : coding 💻 | gaming 🎮 | music 🎧
