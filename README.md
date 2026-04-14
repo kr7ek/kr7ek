@@ -6,7 +6,7 @@
    ██╔═██╗ ██╔══██╗   ██║   ██╔══╝  ██╔═██╗
    ██║  ██╗██║  ██║   ██║   ███████╗██║  ██╗           > system
    ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═╝  ╚═╝           os        : Windows | macOS | Linux
-                                                       shell     : bash
+                                                       shell     : bash | zsh | PowerShell
    > stack                                             editors   : VS Code | IntelliJ | Eclipse
    languages : C | C++ | Java | Python | SQL           theme     : dark
    backend   : Node.js | Spring | Hibernate
